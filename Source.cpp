@@ -2,7 +2,7 @@
 #include <iostream>
 // to make password with '*'
 #include <conio.h>
-// to write on Bulgarian
+// to write in Bulgarian
 #include <clocale>
 
 using namespace std;
